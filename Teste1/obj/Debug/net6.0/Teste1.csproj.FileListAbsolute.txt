@@ -1,0 +1,15 @@
+/home/giovani/Code_Interview/Teste1/bin/Debug/net6.0/Teste1
+/home/giovani/Code_Interview/Teste1/bin/Debug/net6.0/Teste1.deps.json
+/home/giovani/Code_Interview/Teste1/bin/Debug/net6.0/Teste1.runtimeconfig.json
+/home/giovani/Code_Interview/Teste1/bin/Debug/net6.0/Teste1.dll
+/home/giovani/Code_Interview/Teste1/bin/Debug/net6.0/ref/Teste1.dll
+/home/giovani/Code_Interview/Teste1/bin/Debug/net6.0/Teste1.pdb
+/home/giovani/Code_Interview/Teste1/obj/Debug/net6.0/Teste1.csproj.AssemblyReference.cache
+/home/giovani/Code_Interview/Teste1/obj/Debug/net6.0/Teste1.GeneratedMSBuildEditorConfig.editorconfig
+/home/giovani/Code_Interview/Teste1/obj/Debug/net6.0/Teste1.AssemblyInfoInputs.cache
+/home/giovani/Code_Interview/Teste1/obj/Debug/net6.0/Teste1.AssemblyInfo.cs
+/home/giovani/Code_Interview/Teste1/obj/Debug/net6.0/Teste1.csproj.CoreCompileInputs.cache
+/home/giovani/Code_Interview/Teste1/obj/Debug/net6.0/Teste1.dll
+/home/giovani/Code_Interview/Teste1/obj/Debug/net6.0/ref/Teste1.dll
+/home/giovani/Code_Interview/Teste1/obj/Debug/net6.0/Teste1.pdb
+/home/giovani/Code_Interview/Teste1/obj/Debug/net6.0/Teste1.genruntimeconfig.cache

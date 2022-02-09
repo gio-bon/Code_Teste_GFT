@@ -1,0 +1,15 @@
+/home/giovani/Code_Interview/Teste2/bin/Debug/net6.0/Teste2
+/home/giovani/Code_Interview/Teste2/bin/Debug/net6.0/Teste2.deps.json
+/home/giovani/Code_Interview/Teste2/bin/Debug/net6.0/Teste2.runtimeconfig.json
+/home/giovani/Code_Interview/Teste2/bin/Debug/net6.0/Teste2.dll
+/home/giovani/Code_Interview/Teste2/bin/Debug/net6.0/ref/Teste2.dll
+/home/giovani/Code_Interview/Teste2/bin/Debug/net6.0/Teste2.pdb
+/home/giovani/Code_Interview/Teste2/obj/Debug/net6.0/Teste2.csproj.AssemblyReference.cache
+/home/giovani/Code_Interview/Teste2/obj/Debug/net6.0/Teste2.GeneratedMSBuildEditorConfig.editorconfig
+/home/giovani/Code_Interview/Teste2/obj/Debug/net6.0/Teste2.AssemblyInfoInputs.cache
+/home/giovani/Code_Interview/Teste2/obj/Debug/net6.0/Teste2.AssemblyInfo.cs
+/home/giovani/Code_Interview/Teste2/obj/Debug/net6.0/Teste2.csproj.CoreCompileInputs.cache
+/home/giovani/Code_Interview/Teste2/obj/Debug/net6.0/Teste2.dll
+/home/giovani/Code_Interview/Teste2/obj/Debug/net6.0/ref/Teste2.dll
+/home/giovani/Code_Interview/Teste2/obj/Debug/net6.0/Teste2.pdb
+/home/giovani/Code_Interview/Teste2/obj/Debug/net6.0/Teste2.genruntimeconfig.cache
