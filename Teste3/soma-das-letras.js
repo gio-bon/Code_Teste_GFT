@@ -11,22 +11,23 @@
 // “Eu conserto depois”
 // “É só uma pequena mudança”
 
+//pegará os índices das letras do alfabeto
 let alfabeto = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'x', 'z'];
 let string1 = 'Meu código não precisa de comentários';
 let string2 = 'Eu conserto depois';
 let string3 = 'É só uma pequena mudança';
 
 function somaLetras(string) {
-  string = string.toLowerCase();
-  let soma = 0;
-  for (let i = 0; i < string.length; i++) {
-    for (let y = 0; y < alfabeto.length; y++) {
-      if (string[i] == alfabeto[y]) {
+  string = string.toLowerCase(); //transforma tudo em letra minuscula
+  let soma = 0; //guardará a soma dos índices + 1
+  for (let i = 0; i < string.length; i++) { //percorre as strings
+    for (let y = 0; y < alfabeto.length; y++) { //percorre alfabeto
+      if (string[i] == alfabeto[y]) { //se houver correspondência ele  adicionará na variável soma
         soma += y + 1;
       }
     }
   }
-  return soma;
+  return soma; //retorno da soma
 }
 
 console.log(somaLetras(string1));
