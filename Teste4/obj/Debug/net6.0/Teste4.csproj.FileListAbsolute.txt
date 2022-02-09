@@ -1,0 +1,15 @@
+/home/giovani/Code_Interview/Teste4/bin/Debug/net6.0/Teste4
+/home/giovani/Code_Interview/Teste4/bin/Debug/net6.0/Teste4.deps.json
+/home/giovani/Code_Interview/Teste4/bin/Debug/net6.0/Teste4.runtimeconfig.json
+/home/giovani/Code_Interview/Teste4/bin/Debug/net6.0/Teste4.dll
+/home/giovani/Code_Interview/Teste4/bin/Debug/net6.0/ref/Teste4.dll
+/home/giovani/Code_Interview/Teste4/bin/Debug/net6.0/Teste4.pdb
+/home/giovani/Code_Interview/Teste4/obj/Debug/net6.0/Teste4.csproj.AssemblyReference.cache
+/home/giovani/Code_Interview/Teste4/obj/Debug/net6.0/Teste4.GeneratedMSBuildEditorConfig.editorconfig
+/home/giovani/Code_Interview/Teste4/obj/Debug/net6.0/Teste4.AssemblyInfoInputs.cache
+/home/giovani/Code_Interview/Teste4/obj/Debug/net6.0/Teste4.AssemblyInfo.cs
+/home/giovani/Code_Interview/Teste4/obj/Debug/net6.0/Teste4.csproj.CoreCompileInputs.cache
+/home/giovani/Code_Interview/Teste4/obj/Debug/net6.0/Teste4.dll
+/home/giovani/Code_Interview/Teste4/obj/Debug/net6.0/ref/Teste4.dll
+/home/giovani/Code_Interview/Teste4/obj/Debug/net6.0/Teste4.pdb
+/home/giovani/Code_Interview/Teste4/obj/Debug/net6.0/Teste4.genruntimeconfig.cache
